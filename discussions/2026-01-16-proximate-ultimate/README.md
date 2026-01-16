@@ -1,6 +1,6 @@
 # Jan 16
 
-## - Is the proximate-ultimate dichotomy still useful?
+## Is the proximate-ultimate dichotomy still useful?
 
 ### Ernst Mayr 1904 - 2005
 

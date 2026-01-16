@@ -14,9 +14,9 @@ Or Amazon.
 
 [A Concept Map How-to](./concept_map/concept-map.md)
 
-### \[[Jan 16](./discussions/2024-01-16-proximate-ultimate/)\] - Is the proximate-ultimate dichotomy still useful? 
+### \[[Jan 16](./discussions/2024-01-16-proximate-ultimate)\] - Is the proximate-ultimate dichotomy still useful? 
 
-1. [Lala et al. 2024, Foreward](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. ix-xii.
+1. [Lala et al. 2024, Forward](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. ix-xii.
 
 2. [Mayr, E. 1961](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Cause and Effect in Biology. *Science*. 134: 1501-1506)  
 m
