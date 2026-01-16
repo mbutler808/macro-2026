@@ -14,7 +14,7 @@ Or Amazon.
 
 [A Concept Map How-to](./concept_map/concept-map.md)
 
-### \[[Jan 16](./discussions/2024-01-16-proximate-ultimate)\] - Is the proximate-ultimate dichotomy still useful? 
+### \[[Jan 16](./discussions/2026-01-16-proximate-ultimate)\] - Is the proximate-ultimate dichotomy still useful? 
 
 1. [Lala et al. 2024, Forward](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. ix-xii.
 
@@ -24,7 +24,7 @@ m
 
 ## I. Darwinʻs Revolution 
 
-### \[[Jan 21](./discussions/2024-01-21-lamarck-darwin)\] - Lamarckian thought vs. Darwinism  
+### \[[Jan 21](./discussions/2026-01-21-lamarck-darwin)\] - Lamarckian thought vs. Darwinism  
 
 4. [Gould, S.J. 1980](https://web.archive.org/web/20021213154411/http://www.princeton.edu/~browning/215/readings/gould.html). Shades of Lamarck *The Pandaʻs Thumb*. Norton (Pp. 76-84)  
 
