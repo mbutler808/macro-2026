@@ -26,4 +26,6 @@ Mayr, E. (1961) - the philosophical foundations of evidence and explanation in e
 
 ### Bibliography:
 
+Mayr E (1942). Systematics and the Origin of Species. New York: Columbia Univ. Press.
+
 Bock, JW (2014). Ernst W Mayr 1904--2005: A biographical memoir. National Academy of Sciences. <https://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/mayr-ernst.pdf>
