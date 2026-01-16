@@ -1,6 +1,6 @@
-# Jan 17
+# Jan 16
 
-## Darwinism and Macroevolution
+## - Is the proximate-ultimate dichotomy still useful?
 
 ### Ernst Mayr 1904 - 2005
 
@@ -13,32 +13,17 @@ Mayr moved to the US in 1931 to take an appointment at the American Museum of Na
 
 ### Readings and Annotations
 
-#### Acknowledgement: I am grateful for these wonderful annotations below by Dr. Allan Larson
 
-2. [Mayr, E. 1982](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). *The Growth of Biological Thought*. Harvard Univ. Press. (Pp. 21-78)  **map: Rai**
+1. [Lala et al. 2024, Foreward](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. ix-xii.
 
-Mayr, E. (1982) - the philosophical foundations of biological science discussed by a major contributor to the evolutionary synthesis. Mayr's emphasis on quality of concepts and theory as the measure of a science is central to this course. This assignment introduces _hypothetico-deductivism_, _comparative methodology_, _essentialism versus populational thinking_, _hierarchy_, and _reductionism_, all of which are major themes of macroevolution. This is the best concise coverage of these issues that I know.
+2. [Mayr, E. 1961](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Cause and Effect in Biology. *Science*. 134: 1501-1506)  
 
-## Rai
-
-<img width="700" src="./Mayr1982_conceptmap_Rai.png" >
-
-## Dani
-
-<img width="700" src="./Mayr1982_conceptmap_Dani.png" >
+Mayr, E. (1961) - the philosophical foundations of evidence and explanation in evolutionary biology discussed by a major contributor to the evolutionary synthesis. An essay on how we know what we know. It continues to be a highly influential paper. 
 
 
-3. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  **map: Dani**
-
-Mayr, E. (1985) - the best summary that I know of the major components of Darwinian evolutionary theory as synthesized in the mid twentieth century by Mayr and others. The subsequent history of macroevolution consists largely of controversies concerning whether and how these principles provide a complete and satisfactory foundation for macroevolutionary studies.
-
-## Dani
-
-<img width="700" src="./Mayr1985_conceptmap_Dani.png" >
+3. [Leland, K.N., et al.s 2011](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Is Mayrʻs proximate-ultimate dichotomy still useful? *Science* 334:1512-1516.  
 
 
 ### Bibliography:
-
-Mayr E (1942). Systematics and the Origin of Species. New York: Columbia Univ. Press.
 
 Bock, JW (2014). Ernst W Mayr 1904--2005: A biographical memoir. National Academy of Sciences. <https://www.nasonline.org/publications/biographical-memoirs/memoir-pdfs/mayr-ernst.pdf>
