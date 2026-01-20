@@ -28,7 +28,7 @@ m
 
 4. [Gould, S.J. 1980](https://web.archive.org/web/20021213154411/http://www.princeton.edu/~browning/215/readings/gould.html). Shades of Lamarck *The Pandaʻs Thumb*. Norton (Pp. 76-84)  
 
-5. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  **map:Dani**
+5. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  
 
 ### \[[Jan 23](./discussions/2026-01-23-darwin1/)\] - Darwin I  
 
