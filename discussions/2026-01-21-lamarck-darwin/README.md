@@ -27,7 +27,7 @@ Lamarck was clearly brilliant and hard-working. However his writings are very lo
 
 #### Acknowledgement: I am grateful for wonderful annotations on Mayr 1985 and other papers later in the course by Dr. Allan Larson
 
-5. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  [Notes](./Mayr1985_notes.jpg)
+5. [Mayr, E. 1985](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Darwin's five theories of evolution. Pp. 755-772 in D. Kohn (ed.) *The Darwinian Heritage*. Princeton Univ. Press, Princeton.  [Notes](./Mayr1985_notes.jpg)
 
 Mayr, E. (1985) - the best summary that I know of the major components of Darwinian evolutionary theory as synthesized in the mid twentieth century by Mayr and others. The subsequent history of macroevolution consists largely of controversies concerning whether and how these principles provide a complete and satisfactory foundation for macroevolutionary studies.
 
