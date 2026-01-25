@@ -14,7 +14,7 @@ Mayr moved to the US in 1931 to take an appointment at the American Museum of Na
 ### Readings and Annotations
 
 
-1. [Lala et al. 2024, Foreward](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. ix-xii.
+1. [Lala et al. 2024, Forward](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. ix-xii.
 
 2. [Mayr, E. 1961](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM). Cause and Effect in Biology. *Science*. 134: 1501-1506)  
 
