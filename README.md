@@ -35,22 +35,25 @@ m
 6. [Darwin, C. 1859](https://www.biodiversitylibrary.org/item/135954#page/10/mode/2up). *On the Origin of Species*. First Edition. John Murray, London. (Chapters 1-5; pgs. 7-170)  
 
 
-### \[[Jan 28](./discussions/2026-01-28-darwin2/)\]
+### \[[Jan 28](./discussions/2026-01-28-darwin2/)\] - Darwin II
 
-7. (cont'd, [ch6](https://biodiversitylibrary.org/page/42663184), [ch14](https://biodiversitylibrary.org/page/42663472) ) Darwin, C. 1859. *On the Origin of Species*. First Edition. John Murray, London. (Chapters 6, 14; pgs. 171-206,459-490)  **map:Rai**
+7. (Origin cont'd, [ch6](https://biodiversitylibrary.org/page/42663184), [ch14](https://biodiversitylibrary.org/page/42663472) ) Darwin, C. 1859. *On the Origin of Species*. First Edition. John Murray, London. (Chapters 6, 14; pgs. 171-206,459-490)  
+
+8. [Darwin, C. 1871](https://biodiversitylibrary.org/page/20266196). *The Descent of Man, and Selection in Relation to Sex*. John Murray, London. (Chapter 21; pgs. 368-387)  
 
 
 ## Consolidation of the Modern Synthesis and ideas on macroevolutionary diversification
 
-### \[[Jan 30](./discussions/2026-01-30-tempo-mode/)\]  
+### \[[Jan 30](./discussions/2026-01-30-tempo-mode/)\] - Simpson and Tempo and Mode
+
+9. [Simpson, G. G. 1944](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Tempo and Mode in Evolution. Columbia Univ. Press, New York. (Pp. 197-217)  **map:Marguerite**
+
+10. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  **map:Marguerite**
+
+
+### \[[Feb 4](./discussions/2026-02-04-mod-synthesis/)\] - Modern Synthesis 
 
 8. [Moran, L. 1993](https://www.talkorigins.org/faqs/modern-synthesis.html) The Modern synthesis of genetics and evolution
-
-9. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  **map:Marguerite**
-
-10. [Simpson, G. G. 1944](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Tempo and Mode in Evolution. Columbia Univ. Press, New York. (Pp. 197-217)  **map:Marguerite**
-
-### \[[Feb 4](./discussions/2026-02-04-mod-synthesis/)\]  
 
 11. [Lewontin, R.C. 1970](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). The units of selection. Annual Review of Ecology and Systematics. 1:1-18.
 
