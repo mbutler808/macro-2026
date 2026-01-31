@@ -18,7 +18,7 @@ Please read the [evolution of the jaw](https://www.mun.ca/biology/scarr/QA_vs_DS
 
 # Are Higher Taxa Real?
 
-## \[[Papers in Google Drive](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m)
+## \[[The Papers are in the Google Drive](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m)\]
 
 Annotations by [Allan Larson](https://biology.wustl.edu/people/allan-larson)  
 
