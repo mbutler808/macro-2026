@@ -53,7 +53,7 @@ m
 
 ### \[[Feb 4](./discussions/2026-02-04-higher-taxa/)\] - Are Higher Taxa Real? 
 
-11. __Simpson, G. G. (1953) Ch 11__ _Higher Categories_ in __The Major Features of Evolution__, Columbia University Press, NY.
+11. __Simpson, G. G. (1953) Ch 11__ _Higher Categories_ in __The Major Features of Evolution__, Columbia University Press, NY. pp. 338-359
 
 12. Exceprts from __Mayr, E. (1982)__ Section _Grades_ pp. 614-616, and Section _The Traditional or Evolutionary Methodology_ pp. 233-235, in  __The Growth of Biological Thought__ Columbia Univ. Press, NY.
 

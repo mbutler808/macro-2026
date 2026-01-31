@@ -13,16 +13,16 @@ Figure from TotoBaggins at English Wikipedia, Public domain.
 
 ### Example
 
-The [evolution of the jaw](https://www.mun.ca/biology/scarr/QA_vs_DS_jaw.html) in relation to the transition from reptiles to mammals.
+Please read the [evolution of the jaw](https://www.mun.ca/biology/scarr/QA_vs_DS_jaw.html) in relation to the transition from reptiles to mammals.
 
 
 # Are Higher Taxa Real?
 
-## \[[Papers in Google Drive](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m>)
+## \[[Papers in Google Drive](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m)
 
 Annotations by [Allan Larson](https://biology.wustl.edu/people/allan-larson)  
 
-11. __Simpson, G. G. (1953) Ch 11__ _Higher Categories_ in __The Major Features of Evolution__, Columbia University Press, NY.
+11. __Simpson, G. G. (1953) Ch 11__ _Higher Categories_ in __The Major Features of Evolution__, Columbia University Press, NY. pp. 338-359
 - Excerpts from an updated, expanded and retitled version of the book from Simpson (1944). The strong presence of adaptationist principles in constructing higher taxonomic categories and evaluating their evolutionary origins should be noted, especially the concept of adaptive zone. This adaptationist focus has been criticized by some evolutionists, causing them to prefer the earlier book, which is considered more pluralistic. Simpson's "evolutionary taxonomy" as presented here guided most macroevolutionary study in the latter twentieth century and continues to do so in evolutionary paleontology. Cladistic criticism of it is severe, as subsequent readings show. **map:Marguerite**
 
 
