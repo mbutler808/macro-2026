@@ -51,13 +51,22 @@ m
 10. [Gould, S. J. 1995](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). Tempo and mode in the macroevolutionary reconstruction of Darwinism. Pp. 125-144 in W. M. Fitch and F. J. Ayala (eds.) Tempo and Mode in Evolution: Genetics and Paleontology 50 Years after Simpson. National Academy Press, Washington.  **map:Marguerite**
 
 
-### \[[Feb 4](./discussions/2026-02-04-mod-synthesis/)\] - Modern Synthesis 
+### \[[Feb 4](./discussions/2026-02-04-higher-taxa/)\] - Are Higher Taxa Real? 
 
-8. [Moran, L. 1993](https://www.talkorigins.org/faqs/modern-synthesis.html) The Modern synthesis of genetics and evolution
+11. __Simpson, G. G. (1953) Ch 11__ _Higher Categories_ in __The Major Features of Evolution__, Columbia University Press, NY.
 
-11. [Lewontin, R.C. 1970](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). The units of selection. Annual Review of Ecology and Systematics. 1:1-18.
+12. Exceprts from __Mayr, E. (1982)__ Section _Grades_ pp. 614-616, and Section _The Traditional or Evolutionary Methodology_ pp. 233-235, in  __The Growth of Biological Thought__ Columbia Univ. Press, NY.
 
-12. [Lala et al. 2024, Chapter 4](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press.[Lala, et. al 2024] Understanding the Debates. Pp. 38-47.
+13. __Miller, A. H. (1949)__ Some Ecologic and Morphologic Considerations in the Evolution of Higher Taxonomic Categories. _Ornithologie als Biologische Wissenschaft_. pp. 84–88
+
+
+### \[[Feb 6](./discussions/2026-02-06-mod-synthesis/)\] - Modern Synthesis 
+
+Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org/faqs/modern-synthesis.html) The Modern synthesis of genetics and evolution
+
+14. [Lewontin, R.C. 1970](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). The units of selection. Annual Review of Ecology and Systematics. 1:1-18.
+
+15. [Lala et al. 2024, Chapter 4](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press.[Lala, et. al 2024] Understanding the Debates. Pp. 38-47.
 
 ## Challenges to the traditional understanding of heredity and evolution
 
