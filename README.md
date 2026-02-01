@@ -66,35 +66,91 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 14. [Lewontin, R.C. 1970](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). The units of selection. Annual Review of Ecology and Systematics. 1:1-18.
 
-15. [Lala et al. 2024, Chapter 4](). *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press.[Lala, et. al 2024] Understanding the Debates. Pp. 38-47.
+15. __Lala et al. 2024, Chapter 4__ _Understanding the Debates_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 38-47.
 
-## Challenges to the traditional understanding of heredity and evolution
+### [Feb 11] __Exam I__
+
+### [Feb 13] 
+
+# Challenges to the traditional understanding of heredity and evolution
 
 ## Evolution and the general principles of development
 
+### [Feb 18]
+
+### [Feb 20]
+
 ## The organism and its role in finding adaptive solutions
 
-## Evolution by phenotypic plasticity
 
-## The role of developmental bias in shaping evolutionary potential
+### [Feb 25]
 
-## Expanding the causes of selection and dynamics of adaptive evolution
-
-## Extra-genetic inheritance: parental eﬀects and cultural evolution
-
-## Extra-genetic inheritance: epigenetics and the microbiome
-
-## Development and the evolution of novelty
+### [Feb 27]
 
 ## The origins of evolvability
 
 [Wagner, G. P., Altenberg, L. 1996](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m) Perspective: Complex adaptations and the evolution of evolvability. Evolution 50(3):967-967. 
 
+
+### [Mar 4]
+
+### [Mar 6]
+
+## Evolution by phenotypic plasticity
+
+### [Mar 11]
+
+### [Mar 13]
+
+### [Mar 18] __Spring Break__
+
+### [Mar 20] __Spring Break__
+
+## The role of developmental bias in shaping evolutionary potential
+
+
+### [Mar 25] 
+
+### [Mar 27] 
+
+## Expanding the causes of selection and dynamics of adaptive evolution
+
+### [Apr 1] 
+
+### [Apr 3] 
+
+## Extra-genetic inheritance: parental eﬀects and cultural evolution
+
+### [Apr 8] 
+
+### [Apr 10] 
+
+## Extra-genetic inheritance: epigenetics and the microbiome
+
+### [Apr 15] 
+
+### [Apr 17] 
+
+## Development and the evolution of novelty
+
+### [Apr 22] 
+
+### [Apr 24] 
+
 ## A new structure of evolutionary theory
 
+### [Apr 29]
+
+### [May 1]
+
+### [May 6]
 
 
-## Zool719:  Macroevolution (3cr)
+
+
+
+
+# Zool719:  Macroevolution (3cr)
 #### Spring 2026 WF 10:30-11:45am  CRN: 89387 ART 137
 #### email mbutler808@gmail.com for info. Approved for EECB
 
