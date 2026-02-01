@@ -6,8 +6,7 @@
 
 Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org/faqs/modern-synthesis.html) 
 
-
-14. __Lewontin, R.C. 1970__ The units of selection. _Annual Review of Ecology and Systematics_. 1:1-18.
+14. __Lewontin, R.C. 1970__ The units of selection. _Annual Review of Ecology and Systematics_. 1:1-18. **map:Taren** 
 
 15. __Lala et al. 2024, Chapter 4__ _Understanding the Debates_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 38-47.
 

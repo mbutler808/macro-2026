@@ -26,12 +26,12 @@ Annotations by [Allan Larson](https://biology.wustl.edu/people/allan-larson)
 - Excerpts from an updated, expanded and retitled version of the book from Simpson (1944). The strong presence of adaptationist principles in constructing higher taxonomic categories and evaluating their evolutionary origins should be noted, especially the concept of adaptive zone. This adaptationist focus has been criticized by some evolutionists, causing them to prefer the earlier book, which is considered more pluralistic. Simpson's "evolutionary taxonomy" as presented here guided most macroevolutionary study in the latter twentieth century and continues to do so in evolutionary paleontology. Cladistic criticism of it is severe, as subsequent readings show. **map:Marguerite**
 
 
-12. Exceprts from __Mayr, E. (1982)__ Section _Grades_ pp.614-616, and Section _The Traditional or Evolutionary Methodology_ pp.233-235, in  __The Growth of Biological Thought__ Columbia Univ. Press, NY.
+12. Excerpts from __Mayr, E. (1982)__ Section _Grades_ pp.614-616, and Section _The Traditional or Evolutionary Methodology_ pp.233-235, in  __The Growth of Biological Thought__ Columbia Univ. Press, NY. 
 - A concise summary and defense of evolutionary taxonomy following challenges by pheneticists and cladists. Note Mayr's defense of the important concept of "grade."  
 
 
-13. __Miller, A. H. (1949)__ Some Ecologic and Morphologic Considerations in the Evolution of Higher Taxonomic Categories. _Ornithologie als Biologische Wissenschaft_. pp. 84–88
-- An excellent example of evolutionary analysis of the origin of a higher taxonomic category (genus) following Simpsonian principles. This is perhaps the first use of the term "key innovation" (also termed key adaptation, key invention, and key character by various authors), which remains influential and appears in later topics. This kind of study later would be severely criticized by cladistic systematists.  **map:Manuel**
+13. __Miller, A. H. (1949)__ Some Ecologic and Morphologic Considerations in the Evolution of Higher Taxonomic Categories. _Ornithologie als Biologische Wissenschaft_. pp. 84–88 **map:Manuel** 
+- An excellent example of evolutionary analysis of the origin of a higher taxonomic category (genus) following Simpsonian principles. This is perhaps the first use of the term "key innovation" (also termed key adaptation, key invention, and key character by various authors), which remains influential and appears in later topics. This kind of study later would be severely criticized by cladistic systematists.  
 
 
 
