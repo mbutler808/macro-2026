@@ -60,7 +60,7 @@ m
 13. __Miller, A. H. (1949)__ Some Ecologic and Morphologic Considerations in the Evolution of Higher Taxonomic Categories. _Ornithologie als Biologische Wissenschaft_. pp. 84–88
 
 
-### \[[Feb 6](./discussions/2026-02-06-mod-synthesis/)\] - Modern Synthesis 
+### \[[Feb 6](./discussions/2026-02-06-modern-synthesis/)\] - Modern Synthesis 
 
 Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org/faqs/modern-synthesis.html) The Modern synthesis of genetics and evolution
 
