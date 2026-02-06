@@ -24,7 +24,7 @@ Please write your answers by hand, and please try to be concise. That is, __dire
 
 4. How would Lewontinʻs criteria for natural selection (phenotypic variation, differential fitness, and heritability of fitness) apply to selection targetted on genes, individuals, kin, and populations; and could selection at different levels possibly lead to different evolutionary [or outcomes]? Or do you believe that selection at different levels can always be reduced to individual selection? Is selection on higher levels possible (e.g., species or higher taxa) and better explain key innovations as discussed by Simpson or any of the other authors? (why or why not)
 
-(Old version - __do not use__) Is selection is generalizable to levels below and above the individual? Does Lewontin suggest different mechanisms and/or different consequences of selection at these different levels of the biological heirarchy? Are these different levels of selection necessary to explain novel evolutionary phenomena?
+(Old version of #4 - __do not use__) Is selection is generalizable to levels below and above the individual? Does Lewontin suggest different mechanisms and/or different consequences of selection at these different levels of the biological heirarchy? Are these different levels of selection necessary to explain novel evolutionary phenomena?
 
 
 
