@@ -66,13 +66,17 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 14. [Lewontin, R.C. 1970](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m). The units of selection. Annual Review of Ecology and Systematics. 1:1-18.
 
-15. __Lala et al. 2024, Chapter 4__ _Understanding the Debates_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 38-47.
+15. __Lala, K.N., et al. 2024, Chapter 4__ _Understanding the Debates_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 38-47.
 
 ### \[[Feb 11](./exams/exam1/)\] __Exam I__
 
+# Challenges to the traditional understanding of heredity and evolution
+
 ### [Feb 13] 
 
-# Challenges to the traditional understanding of heredity and evolution
+15. __Lala, K.N., et al. 2024, Chapter 3__ _How the Turtle got is Shell_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 20-37.
+
+[Will add to this]
 
 ## Evolution and the general principles of development
 
