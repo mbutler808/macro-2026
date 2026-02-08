@@ -26,14 +26,6 @@ _Homology_: "the possession by two or more species of a trait, with or without m
 
 
 
-### Concept Maps
-
-## Lewontin 1970 - The units of Selection by Taren 
-
-<img width="700" src="" >
-
-
-## Lala et al 2004. Chapter 4 - Understanding the Debates
 
 ## Background Papers
 
