@@ -14,7 +14,7 @@ Many aspects of turtle evolution have been challenging. Where turtles fit within
 
 17. __Rieppel, O. 2001__ Turtles as hopeful monsters. _BioEssays_ 23:987-991.
 
-An accessible summary of the new developmemtal insights on how turtles evolved their shells. Contains references to insights from paleontology as well. Pay attention to changes in the __order__ and __timing__ of development of morphological structures (including rate of growth). Another important developmental event is changes in spatial arrangment (which cells touch and possibly signal additional developmental events). Also pay attention to how novel developmental insights inspired reinterpretaion of paleontological conclusions.
+An accessible summary of the new developmemtal insights on how turtles evolved their shells. Contains references to insights from paleontology as well. Pay attention to changes in the __order__ and __timing__ of development of morphological structures (including rate of growth). Another important developmental event is changes in spatial arrangment (which cells touch and possibly signal additional developmental events). Also pay attention to how novel developmental insights inspired reinterpretaion of paleontological findings.
 
 _Heterochrony_: Evolutionary change in the __timing__ of development, relative to an ancesstor.
 
