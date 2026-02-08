@@ -14,11 +14,13 @@ Many aspects of turtle evolution have been challenging. Where turtles fit within
 
 17. __Rieppel, O. 2001__ Turtles as hopeful monsters. _BioEssays_ 23:987-991.
 
-An accessible summary of the new developmemtal insights on how turtles evolved their shells. Contains references to insights from paleontology as well. Pay attention to changes in the __order__ and __timing__ of development of morphological structures (including rate of growth). Another important developmental event is changes in spatial arrangment (which cells touch and signal additional developmental events).
+An accessible summary of the new developmemtal insights on how turtles evolved their shells. Contains references to insights from paleontology as well. Pay attention to changes in the __order__ and __timing__ of development of morphological structures (including rate of growth). Another important developmental event is changes in spatial arrangment (which cells touch and signal additional developmental events). 
 
 _Heterochrony_: Evolutionary change in the __timing__ of development, relative to an ancesstor.
 
 _Heterotopy_: Evolutionary change in the __spatial location__ of development or arrangement of a trait during development, relative to an ancestor.
+
+_Homology_: "the possession by two or more species of a trait, with or without modification, from their common ancestor" (Futyuma 1986, pg. 552) 
 
 ## Discussion Questions
 
