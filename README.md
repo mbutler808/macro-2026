@@ -72,11 +72,11 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 # Challenges to the traditional understanding of heredity and evolution
 
-### [Feb 13] 
+### \[[Feb 13](./discussions/2026-02-13-turtle-shell/)\] 
 
 15. __Lala, K.N., et al. 2024, Chapter 3__ _How the Turtle got is Shell_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 20-37.
 
-[Will add to this]
+16. __Rieppel, O. 2001__ Turtles as hopeful monsters. _BioEssays_ 23:987-991.
 
 ## Evolution and the general principles of development
 
