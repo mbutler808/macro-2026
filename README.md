@@ -82,15 +82,15 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 ### \[[Feb 18](./discussions/2026-02-18-homology/)\] __Homology__
 
-19. __Wagner, G. P. 1989__. The origin of morphological characters and the biological basis of homology. _Evolution_ 43:1157-1171.    
+19. __Wagner, G. P. 1989__. The origin of morphological characters and the biological basis of homology. _Evolution_ 43:1157-1171. __map:Manuel__   
 
 20. __Lala, K.N., et al. 2024, Chapter 5__ _Opening the Black Box_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 51-71.
 
 ### \[[Feb 20](./discussions/2026-02-20-heterochrony/)\] __Heterochrony__
 
-21. __Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979__. Size and shape in ontogeny and phylogeny. _Paleobiology_ 5:296-317.
+21. __Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979__. Size and shape in ontogeny and phylogeny. _Paleobiology_ 5:296-317. __map:Taren__  
 
-22. __Dobreva, M. P., Camacho, J., & Abzhanov, A. 2022__. Time to synchronize our clocks: Connecting developmental mechanisms and evolutionary consequences of heterochrony. _J Exp Zool B (Mol Dev Evol)_, 338, 87–106. https://doi.org/10.1002/jez.b.23103
+22. __Dobreva, M. P., Camacho, J., & Abzhanov, A. 2022__. Time to synchronize our clocks: Connecting developmental mechanisms and evolutionary consequences of heterochrony. _J Exp Zool B (Mol Dev Evol)_, 338, 87–106. https://doi.org/10.1002/jez.b.23103 
 
 ### [Feb 25]
 

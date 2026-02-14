@@ -4,7 +4,7 @@
 
 ## \[[The Papers are in the Google Drive](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m)\]
 
-21. __Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979__. Size and shape in ontogeny and phylogeny. _Paleobiology_ 5:296-317.   
+21. __Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979__. Size and shape in ontogeny and phylogeny. _Paleobiology_ 5:296-317. __map:Taren__  
 
 A classic paper giving formal definitions of the standard patterns and processes of heterochrony, especially as relevant to changes occurring relatively late in ontogeny (retroactively termed "de Beerian heterochrony" by many authors). This is the standard scheme against which others are compared. 
 
@@ -24,11 +24,6 @@ __Haeckelʻs Biogenetic law (1866)__ "Ontogeny recapitulates phylogeny"
 
 __SJ Gould (1977)__ "Ontogeny and Phylogeny" 
 - Argues that you can get punctuated change through evolutionary changes in development "Saltational change"
-
-
-19. __Wagner, G. P. 1989__. The origin of morphological characters and the biological basis of homology. _Evolution_ 43:1157-1171.    
-
-Wagner's writings on homology have been critical in forming a synthesis of developmental biology and evolutionary biology. Of his various papers on homology, this one is still my favorite general overview. Pay close attention to the three fundamental properties of biological homology. How does Wagner's approach to homology differ from Pattersonʻs (who equated homology with synapomorphy, and I will summarize)? __map: Manuel__
 
 _Homology_: "the possession by two or more species of a trait, with or without modification, from their common ancestor" (Futyuma 1986, pg. 552)  __map:Taren__
 
