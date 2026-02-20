@@ -35,6 +35,8 @@ _Homology_: "the possession by two or more species of a trait, with or without m
 
 
 
-## Background Papers
+## Concept Maps
 
-__Patterson, C. 1982__. Morphological characters and homology. Pp. 21-74 in K. A. Joysey and A. E. Friday (eds.) Problems of Phylogenetic Reconstruction. Academic Press, New York.
+## __Alberch, P., S. J. Gould, G. F. Oster and D. B. Wake. 1979__. Size and shape in ontogeny and phylogeny. 
+
+<img width="700" src="./Albrech1979_Concept_map.png" >
