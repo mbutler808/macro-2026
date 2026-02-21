@@ -92,18 +92,26 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 22. __Dobreva, M. P., Camacho, J., & Abzhanov, A. 2022__. Time to synchronize our clocks: Connecting developmental mechanisms and evolutionary consequences of heterochrony. _J Exp Zool B (Mol Dev Evol)_, 338, 87–106. https://doi.org/10.1002/jez.b.23103 
 
-### [Feb 25]
+## The origins of evolvability
 
-### [Feb 27]
+### \[[Feb 25](./discussions/2026-02-25-evolvability/)\] __Evolvability__
+
+23. __Wagner, G. P., Altenberg, L. 1996__ Perspective: Complex adaptations and the evolution of evolvability. _Evolution_ 50(3):967-976. __map:Taren__
+
+24. __Lala, K.N., et al. 2024, Chapter 6__ _Five General Principles of Development_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 72-79.
+
+25. __Wagner, G. P. 1988__ The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) _Population Genetics and Evolution_, Springer-Verlag, Berlin.
+
+### \[[Feb 27](./discussions/2026-02-27-modularity/)\] __Evolvability__
+
+26. __Lala, K.N., et al. 2024, Chapter 7__ _Developmental Bias_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 83-99.
+
+27. [Wagner, G. P., M. Pavlicev and J. M. Cheverud. 2007](https://drive.google.com/drive/u/0/folders/1ocqMPD5gX9xi4VQy_5OtU5wSyg-X8ftM) The road to modularity. Nature Reviews Genetics 8:921-931.__map:Manuel__
+
 
 
 ## The organism and its role in finding adaptive solutions
 
-
-
-## The origins of evolvability
-
-[Wagner, G. P., Altenberg, L. 1996](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m) Perspective: Complex adaptations and the evolution of evolvability. Evolution 50(3):967-967. 
 
 
 ### [Mar 4]
