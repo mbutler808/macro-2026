@@ -10,7 +10,7 @@ These readings get at variational properties of organisms. In other words, how v
 
 
 #### Concept Map by Taren   
-<!-img width="700" src="" >
+<!-img width="700" src="./Wagner concept map TLDB.png" >
 
 
 23. __Lala, K.N., et al. 2024, Chapter 6__ _Five General Principles of Development_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 72-79.
