@@ -100,7 +100,7 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 24. __Wagner, G. P. 1988__ The significance of developmental constraints for phenotypic evolution by natural selection. Pp. 222-229 in G. de Jong (ed.) _Population Genetics and Evolution_, Springer-Verlag, Berlin.
 
-### \[[Feb 27](./discussions/2026-02-27-modularity/)\] __Evolvability__
+### \[[Feb 27](./discussions/2026-02-27-modularity/)\] __Modularity__
 
 25. __Lala, K.N., et al. 2024, Chapter 7__ _Developmental Bias_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 83-99.
 
@@ -109,7 +109,6 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 
 ## The organism and its role in finding adaptive solutions
-
 
 
 ### [Mar 4]
