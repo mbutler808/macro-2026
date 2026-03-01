@@ -111,9 +111,15 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 ## The organism and its role in finding adaptive solutions
 
 
-### [Mar 4]
+### \[[Mar 4](./discussions/2026-03-04-plasticity/)\] __Plasticity__
 
-### [Mar 6]
+27. __Pigliucci, M. 2005__ Evolution of phenotypic plasticity: where are we going now?. _TRENDS in Ecology and Evolution_ 20(9):482-6. <doi:10.1016/j.tree.2005.06.001> __map:Taren__
+
+28. __Lala, K.N., et al. 2024, Chapter 8__ _Plasticity-Led Evolution_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 100-118.
+
+### \[[Mar 6](./discussions/2026-03-06-selection/)\] __Causes of Selection__
+
+29. __Lala, K.N., et al. 2024, Chapter 9__ _The Causes of Selection_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 119-143. __map:Taren__
 
 ## Evolution by phenotypic plasticity
 
