@@ -119,7 +119,7 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 ### \[[Mar 6](./discussions/2026-03-06-selection/)\] __Causes of Selection__
 
-29. __Lala, K.N., et al. 2024, Chapter 9__ _The Causes of Selection_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 119-143. __map:Taren__
+29. __Lala, K.N., et al. 2024, Chapter 9__ _The Causes of Selection_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 119-143. __map:Manuel__
 
 ## Evolution by phenotypic plasticity
 
