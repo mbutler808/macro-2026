@@ -16,7 +16,9 @@ I will provide blue books to write your exams in. Please be prepared to write yo
 * There is no single right answer, but there are views that are supported by evidence and those that are not supportable. 
 
 ### Questions  
+
 1. Evolvability and Modularity  
+
 Option 1a: How would correlation between phenotypic characters be explained by Neo-Darwinian thinking on the genotype-to-phenotype map (as exemplified by hierarchical thinking in Lewontin 1970, without interactions), versus Evo-Devo thinkers? What is the role of modularity, selection, and variational properties? How can these different perspectives explain the evolution of complex phenotypes? You may want to review the writings of Wagner, Altenberg, West-Eberhard. 
 
 or 
