@@ -17,7 +17,7 @@ I will provide blue books to write your exams in. Please be prepared to write yo
 
 ### Questions  
 
-1. Evolvability and Modularity  
+__1. Evolvability and Modularity__  
 
 __Option 1a:__ How would correlation between phenotypic characters be explained by Neo-Darwinian thinking on the genotype-to-phenotype map (as exemplified by hierarchical thinking in Lewontin 1970, without interactions), versus Evo-Devo thinkers? What is the role of modularity, selection, and variational properties? How can these different perspectives explain the evolution of complex phenotypes? You may want to review the writings of Wagner, Altenberg, West-Eberhard. 
 
@@ -28,12 +28,12 @@ __Option 1b:__ Lala et al. (2024, pg. 72) states, "First, it is apparent that de
 How does modularity in development originate? Is selection on the organism involved (explain)? How is developmental modularity maintained, promulgated by, or limited by evolutionary dynamics? You may want to refer to Lala et al. Ch. 5, Wagner and Altenberg 1996, and West-Eberhard 2003, among others.
 
 
-2.  Heterochrony, Heterotopy and the origin of novelty 
+__2.  Heterochrony, Heterotopy and the origin of novelty__ 
 
 Why is the origin of extreme novelty so difficult to explain with traditional concepts of morphological homology and Neo-Darwinian thinking? How can the concepts of heterochrony and heterotopy (Alberch et al 1979 and Dobreva et al 2002) help in the understanding how the turtle got its shell (e.g., see Rieppel 2001, Chapter 3, and see background papers Gilbert et al 2001, Burke 1989 if you need more information)? 
 
 
-3. Phenotypic developmental plasticity
+__3. Phenotypic developmental plasticity__
 
 Neo-darwinians viewed phenotypic plasticity as slowing evolutionary change. Why? Researchers in the Evolution of Development (Evo-Devo) mainly disagree. What are the mechanisms by which plasticity may assist or retard macroevolutionary change (specify the kinds of macroevolutionary change)? Include in your answer ideas raised by Piggliucci (2005), West-Eberhard (2003,2005), and Ghalambour et al (2007), and explain any key differences. Is plasticity a minor feature of organismal evolution, or a major influence?
 
