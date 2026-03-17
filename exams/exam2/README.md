@@ -19,11 +19,11 @@ I will provide blue books to write your exams in. Please be prepared to write yo
 
 1. Evolvability and Modularity  
 
-Option 1a: How would correlation between phenotypic characters be explained by Neo-Darwinian thinking on the genotype-to-phenotype map (as exemplified by hierarchical thinking in Lewontin 1970, without interactions), versus Evo-Devo thinkers? What is the role of modularity, selection, and variational properties? How can these different perspectives explain the evolution of complex phenotypes? You may want to review the writings of Wagner, Altenberg, West-Eberhard. 
+__Option 1a:__ How would correlation between phenotypic characters be explained by Neo-Darwinian thinking on the genotype-to-phenotype map (as exemplified by hierarchical thinking in Lewontin 1970, without interactions), versus Evo-Devo thinkers? What is the role of modularity, selection, and variational properties? How can these different perspectives explain the evolution of complex phenotypes? You may want to review the writings of Wagner, Altenberg, West-Eberhard. 
 
 or 
 
-Option 1b: Lala et al. (2024, pg. 72) states, "First, it is apparent that development is modular, by which we mean its components possess their own intrinsic dynamics and integrated structure. .... Development is modular and combinatorial.…"  on pg 73 "... Of course, there must also be bounds to modularity. No developmental process is entirely autonomous, and the organism is a mosaic of interacting processes, with some parts more connected than others."
+__Option 1b:__ Lala et al. (2024, pg. 72) states, "First, it is apparent that development is modular, by which we mean its components possess their own intrinsic dynamics and integrated structure. .... Development is modular and combinatorial.…"  on pg 73 "... Of course, there must also be bounds to modularity. No developmental process is entirely autonomous, and the organism is a mosaic of interacting processes, with some parts more connected than others."
 
 How does modularity in development originate? Is selection on the organism involved (explain)? How is developmental modularity maintained, promulgated by, or limited by evolutionary dynamics? You may want to refer to Lala et al. Ch. 5, Wagner and Altenberg 1996, and West-Eberhard 2003, among others.
 
