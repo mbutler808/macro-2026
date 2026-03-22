@@ -144,7 +144,12 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 ### \[[Mar 25](./exams/exam2/)\] __Exam II__
 
-### [Mar 27] 
+### \[[Mar 27](./discussions/2026-03-27-evo-devo/)\] __Evo Devo__ 
+
+33. __Wolpert, L., Tickle, C., Martinez Arias, A. 2015__ Excerpts on _Hox genes and body patterning_ Oxford University Press. 
+
+34. __Wolpert, L., Tickle, C., Martinez Arias, A. 2015__ Ch. 14 _The Evolution of Development_  Oxford University Press. pp.626-653
+
 
 ## Expanding the causes of selection and dynamics of adaptive evolution
 
