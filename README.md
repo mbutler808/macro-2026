@@ -151,37 +151,47 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 34. __Wolpert, L., Tickle, C., Martinez Arias, A. 2015__ Ch. 14 _The Evolution of Development_  Oxford University Press. pp.626-653
 
 
-## Expanding the causes of selection and dynamics of adaptive evolution
+### [Apr 1] Symbiosis
 
-### [Apr 1] 
+1. Can you identify the paradigm shifts that these authors are advancing?  What is the significance for Evolutionary Biology?
 
-### [Apr 3] 
+2. In what ways does symbiosis change our understanding of genetic architecture and adaptive variation (functional, developmental, ecological, evolutionary)? How widespread are these mechanisms, based on the data?
+
+__Scott F. Gilbert, Michael G. Hadfield 2022__ Symbiosis of disciplines: how can developmental biologists join conservationists in sustaining and restoring earth's biodiversity?. _Development_ 1 July 2022; 149 (13): dev199960. doi: https://doi.org/10.1242/dev.199960
+
+__M. McFall-Ngai, M.G. Hadfield, T.C.G. Bosch, H.V. Carey, T. Domazet-Lošo, A.E. Douglas, N. Dubilier, G. Eberl, T. Fukami, S.F. Gilbert, U. Hentschel, N. King, S. Kjelleberg, A.H. Knoll, N. Kremer, S.K. Mazmanian, J.L. Metcalf, K. Nealson, N.E. Pierce, J.F. Rawls, A. Reid, E.G. Ruby, M. Rumpho, J.G. Sanders, D. Tautz, & J.J. Wernegreen 2013__, Animals in a bacterial world, a new imperative for the life sciences, _Proc. Natl. Acad. Sci._ U.S.A. 110 (9) 3229-3236, https://doi.org/10.1073/pnas.1218525110 
+
+### [Apr 3] Good Friday Holiday
+
+## Phylogenetics 
+
+### [Apr 8] Models of Evolution/ML Phylogenetics
+
+### [Apr 10] Bayesian Inference methods
 
 ## Extra-genetic inheritance: parental eﬀects and cultural evolution
+epigenetics and the microbiome
 
-### [Apr 8] 
+### [Apr 15] Phylogenetic Comparative Methods
 
-### [Apr 10] 
-
-## Extra-genetic inheritance: epigenetics and the microbiome
-
-### [Apr 15] 
-
-### [Apr 17] 
+### [Apr 17] Parental Effects
 
 ## Development and the evolution of novelty
 
-### [Apr 22] 
+### [Apr 22] Cultural Evoltution
 
-### [Apr 24] 
+### [Apr 24] Epigenetics
 
 ## A new structure of evolutionary theory
 
-### [Apr 29]
+### [Apr 29] Developmental Origins of Evolvability
+
+__Lala, K.N., et al. 2024, Chapter 12__ _Developmental Origins of Evolvability_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 83-99.
+
 
 ### [May 1]
 
-### [May 6]
+### [May 6] Exam III (or the following week)
 
 
 
