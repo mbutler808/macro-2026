@@ -151,7 +151,7 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 34. __Wolpert, L., Tickle, C., Martinez Arias, A. 2015__ Ch. 14 _The Evolution of Development_  Oxford University Press. pp.626-653
 
 
-### [Apr 1](./discussions/2026-03-31-symbiosis/)\] __Symbiosis__
+### \[[Apr 1](./discussions/2026-03-31-symbiosis/)\] __Symbiosis__
 
 35. __M. McFall-Ngai, M.G. Hadfield, T.C.G. Bosch, H.V. Carey, T. Domazet-Lošo, A.E. Douglas, N. Dubilier, G. Eberl, T. Fukami, S.F. Gilbert, U. Hentschel, N. King, S. Kjelleberg, A.H. Knoll, N. Kremer, S.K. Mazmanian, J.L. Metcalf, K. Nealson, N.E. Pierce, J.F. Rawls, A. Reid, E.G. Ruby, M. Rumpho, J.G. Sanders, D. Tautz, & J.J. Wernegreen 2013__, Animals in a bacterial world, a new imperative for the life sciences, _Proc. Natl. Acad. Sci._ U.S.A. 110 (9) 3229-3236, https://doi.org/10.1073/pnas.1218525110 
 
