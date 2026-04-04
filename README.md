@@ -162,31 +162,50 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 ## Phylogenetics 
 
-### [Apr 8] Models of Evolution/ML Phylogenetics
+### \[[Apr 8](./discussions/2026-03-31-symbiosis/)\] Phylogenetic Models
 
-### [Apr 10] Bayesian Inference methods
+37. __Felsenstein, J. 2004. Chapter 10__ A digression on History and Philosophy. 123-147 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
+
+
+38. __Felsenstein, J. 2004. Chapter 13__ Models of DNA evolution. Pp. 196-221 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
+
+
+### [Apr 10] Inviduality and Symbiosis 
+39. __Margulis, L. (1991)__. Symbiogenesis and Symbionticism. In Symbiosis as a Source
+of Evolutionary Innovation: Speciation and Morphogenesis (ed. L. Margulis and R.
+Fester), pp. 1-14. Cambridge, MA: MIT Press.  __map:Taren__
+
+40. __Maynard-Smith, J. (1991)__. A Darwinian View of Symbiosis. In Symbiosis as a Source
+of Evolutionary Innovation: Speciation and Morphogenesis (ed. L. Margulis and R.
+Fester), pp. 26-39. Cambridge, MA: MIT Press.  __map:Taren__
+
+41. __Scott F. Gilbert, J. Sapp, and A. I. Tauber. (2012)__. "A Symbiotic View Of Life: We Have Never Been
+Individuals". Quarterly Review Of Biology. Volume 87, Issue 4. 325-341. DOI: 10.1086/668166
+https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
+
+
+### [Apr 15] Maximum Likelihood and Bayesian Methods
+
+
+### [Apr 17] Phylogenetic Comparative Methods
 
 ## Extra-genetic inheritance: parental eﬀects and cultural evolution
 epigenetics and the microbiome
 
-### [Apr 15] Phylogenetic Comparative Methods
-
-### [Apr 17] Parental Effects
+### [Apr 22] Parental Effects
 
 ## Development and the evolution of novelty
 
-### [Apr 22] Cultural Evoltution
+### [Apr 24] Cultural Evolution
 
-### [Apr 24] Epigenetics
+### [Apr 29] Epigenetics
 
 ## A new structure of evolutionary theory
 
-### [Apr 29] Developmental Origins of Evolvability
+### [May 1] Developmental Origins of Evolvability
 
 __Lala, K.N., et al. 2024, Chapter 12__ _Developmental Origins of Evolvability_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 83-99.
 
-
-### [May 1]
 
 ### [May 6] Exam III (or the following week)
 
