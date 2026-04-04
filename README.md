@@ -162,15 +162,15 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 ## Phylogenetics 
 
-### \[[Apr 8](./discussions/2026-03-31-symbiosis/)\] Phylogenetic Models
+### \[[Apr 8](./discussions/2026-04-08-symbiosis/)\] Phylogenetic Models
 
 37. __Felsenstein, J. 2004. Chapter 10__ A digression on History and Philosophy. 123-147 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
-
 
 38. __Felsenstein, J. 2004. Chapter 13__ Models of DNA evolution. Pp. 196-221 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
 
 
-### [Apr 10] Inviduality and Symbiosis 
+### \[[Apr 10](./discussions/2026-04-10-individuality-symbiosis/)\] Individuality and Symbiosis 
+
 39. __Margulis, L. (1991)__. Symbiogenesis and Symbionticism. In Symbiosis as a Source
 of Evolutionary Innovation: Speciation and Morphogenesis (ed. L. Margulis and R.
 Fester), pp. 1-14. Cambridge, MA: MIT Press.  __map:Taren__
