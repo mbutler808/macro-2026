@@ -18,6 +18,8 @@ Fester), pp. 26-39. Cambridge, MA: MIT Press.  __map:Taren__
 Individuals". Quarterly Review Of Biology. Volume 87, Issue 4. 325-341. DOI: 10.1086/668166
 https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
 
+### Notes
+
 - There is widespread agreement that the orgin of novelty is difficult to explain. 
 
 - The Darwinian perspective places a great deal of emphasis on the _individual_
