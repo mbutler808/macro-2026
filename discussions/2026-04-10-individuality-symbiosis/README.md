@@ -19,7 +19,8 @@ Individuals". Quarterly Review Of Biology. Volume 87, Issue 4. 325-341. DOI: 10.
 https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
 
 
-#### Concept Map by Taren   
+#### Concept Maps by Taren   
+<img width="700" src="./Margulis, L. (1991) concept map.png">
 <img width="700" src="./Maynard-Smith, J. (1991) concept map.png">
 
 #### Concept Map by Manuel   
