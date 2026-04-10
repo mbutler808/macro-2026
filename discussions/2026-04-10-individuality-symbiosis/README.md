@@ -28,11 +28,13 @@ https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
   + _THEREFORE_ individuals _house the genes_ and are subject to selection
     +  and directs the _mode of transmission_, replication, and survival of the genes. 
 
-### Q1. Why is there so much emphasis on the forms and degrees of symbiosis in Marguilis vis-a-vis Maynard Smith?
+### Questions 
 
-### Q2. What is the "unit of evolution" in Marguilis vs. Maynard Smith? What is the role of symbiosis in evoluiton? 
+1. Why is there so much emphasis on the forms and degrees of symbiosis in Marguilis vis-a-vis Maynard Smith?
 
-### Q3. How has the notion of individual changed in Gilbert et al? In what ways is it still a useful concept?
+2. What is the "unit of evolution" in Marguilis vs. Maynard Smith? What is the role of symbiosis in evoluiton? 
+
+3. How has the notion of individual changed in Gilbert et al? In what ways is it still a useful concept?
 
 
 #### Concept Maps by Taren   
