@@ -162,7 +162,7 @@ Please read this very short summary [Moran, L. 1993](https://www.talkorigins.org
 
 ## Phylogenetics 
 
-### \[[Apr 8](./discussions/2026-04-08-symbiosis/)\] Phylogenetic Models
+### \[[Apr 8](./discussions/2026-04-08-phylogenetic-models/)\] Phylogenetic Models
 
 37. __Felsenstein, J. 2004. Chapter 10__ A digression on History and Philosophy. 123-147 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  
 
@@ -182,7 +182,6 @@ Fester), pp. 26-39. Cambridge, MA: MIT Press.  __map:Taren__
 41. __Scott F. Gilbert, J. Sapp, and A. I. Tauber. (2012)__. "A Symbiotic View Of Life: We Have Never Been
 Individuals". Quarterly Review Of Biology. Volume 87, Issue 4. 325-341. DOI: 10.1086/668166
 https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
-
 
 ### [Apr 15] Maximum Likelihood and Bayesian Methods
 
