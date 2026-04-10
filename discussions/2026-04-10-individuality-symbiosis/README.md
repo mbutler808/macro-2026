@@ -18,6 +18,20 @@ Fester), pp. 26-39. Cambridge, MA: MIT Press.  __map:Taren__
 Individuals". Quarterly Review Of Biology. Volume 87, Issue 4. 325-341. DOI: 10.1086/668166
 https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
 
+- There is widespread agreement that the orgin of novelty is difficult to explain. 
+
+- The Darwinian perspective places a great deal of emphasis on the _individual_
+  + The individual embodies the phenotype upon whic selection can act. 
+  + The modern synthesis views evolution as genetic change (in early days "change in gene frequency").
+  + _THEREFORE_ individuals _house the genes_ and are subject to selection
+    +  and directs the _mode of transmission_, replication, and survival of the genes. 
+
+### Q1. Why is there so much emphasis on the forms and degrees of symbiosis in Marguilis vis-a-vis Maynard Smith?
+
+### Q2. What is the "unit of evolution" in Marguilis vs. Maynard Smith? What is the role of symbiosis in evoluiton? 
+
+### Q3. How has the notion of individual changed in Gilbert et al? In what ways is it still a useful concept?
+
 
 #### Concept Maps by Taren   
 <img width="700" src="./Margulis, L. (1991) concept map.png">
