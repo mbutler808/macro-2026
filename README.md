@@ -183,10 +183,15 @@ Fester), pp. 26-39. Cambridge, MA: MIT Press.  __map:Taren__
 Individuals". Quarterly Review Of Biology. Volume 87, Issue 4. 325-341. DOI: 10.1086/668166
 https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
 
-### [Apr 15] Maximum Likelihood and Bayesian Methods
+### \[[Apr 15](./discussions/2026-04-15-maximum-likelihood/)\] Maximum Likelihood 
 
+42. __Felsenstein, J. 2004__ Chapter 16 Likelihood Methods. Pp. 248-274 in Inferring Phylogenies. Sinauer Assoc., Sunderland.  **todos:Manuel,Taren**
 
-### [Apr 17] Phylogenetic Comparative Methods
+### \[[Apr 17](./discussions/2026-04-17-phylogenetic-comparative-methods/)\] Phylogenetic Comparative Methods
+
+43. __Felsenstein, J. 1985__ Phylogenies and the comparative method. American Naturalist 125:1-15. **map:Taren**
+
+44. __Butler, M. A., and King, A. A. 2004__ Phylogenetic comparative analysis: a modeling approach for adaptive evolution. American Naturalist 164:683-695. **map:Manuel**
 
 ## Extra-genetic inheritance: parental eﬀects and cultural evolution
 epigenetics and the microbiome
