@@ -2,7 +2,9 @@
 
 ## Phylogenetic Comparative Methods - Continuous Characters
 
-### [Intro to Comparative Methods powerpoint](./IntroComparativeMethods_OUCH.pdf)
+All papers and powerpoints in \[[Shared Drive](https://drive.google.com/drive/u/0/folders/1ftgXSMARxGUhPHBGKkJN48lKBJC6Ji-m)\]
+
+### Intro to Comparative Methods powerpoint
 
 The comparative method is one of the oldest tools in biology. By comparing species that differ in some interesting way, for example ecology or habit, and exploring the variation in phenotype, we can try to infer the structure-function relationship, or even the purpose or function of some phenotype. Modern methods take account of phylogeny in the comparison when they want to make a statement about evolution. Pay attention to the model of evolution (either explicit or implied).
 
