@@ -14,7 +14,7 @@ Felsenstein 1985 is a highly influential paper - the second most cited paper in 
 
 #### Concept Map by Taren
 
-<img width="700" src="./Felsenstein1985ConceptMap.jpg">
+<img width="700" src="./">
 
 #### Questions:
 
@@ -26,7 +26,7 @@ This is my paper with Aaron King. When everyone was thinking about "correcting f
 
 #### Concept Map by Manuel
 
-<img width="700" src="./">
+<img width="700" src="./ButlerKing2004Conceptmap_MSL.png">
 
 #### Questions:
 
