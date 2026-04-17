@@ -14,7 +14,7 @@ Felsenstein 1985 is a highly influential paper - the second most cited paper in 
 
 #### Concept Map by Taren
 
-<img width="700" src="./">
+<img width="700" src="./Felsenstein, J. 1985 concept map.png">
 
 #### Questions:
 
