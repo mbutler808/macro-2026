@@ -196,15 +196,19 @@ https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
 ## Extra-genetic inheritance: parental eﬀects and cultural evolution
 epigenetics and the microbiome
 
-### [Apr 22] Parental Effects
+### [Apr 22] Extra Genenetic Inheritance
 
-## Development and the evolution of novelty
+45. __Lala, K.N., et al. 2024, Chapter 10__ _Inheritance Beyond the Gene_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 144-169. __map:Taren__
 
-### [Apr 24] Cultural Evolution
+### [Apr 24] Timescales and Novelty
+
+46. __Lala, K.N., et al. 2024, Chapter 11__ _Novelty and Innovation_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 173-188. 
+
+47. __Drummond, A.J., Ho, S.Y.W., Phillips, M.J., Rambaut, A. 2006__   Relaxed phylogenetics and dating with confidence. PLoS Biol 4(5): e88. https://doi.org/10.1371/journal.pbio.0040088
+ __map:Taren__
 
 ### [Apr 29] Epigenetics
 
-## A new structure of evolutionary theory
 
 ### [May 1] Developmental Origins of Evolvability
 
