@@ -196,7 +196,7 @@ https://works.swarthmore.edu/fac-biology/165  __map:Manuel__
 ## Extra-genetic inheritance: parental eﬀects and cultural evolution
 epigenetics and the microbiome
 
-### [Apr 22] Extra Genenetic Inheritance
+### \[[Apr 22](./discussions/2026-04-22-extra-genetic)\] Extra Genenetic Inheritance
 
 45. __Lala, K.N., et al. 2024, Chapter 10__ _Inheritance Beyond the Gene_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 144-169. __map:Taren__
 
