@@ -200,20 +200,20 @@ epigenetics and the microbiome
 
 45. __Lala, K.N., et al. 2024, Chapter 10__ _Inheritance Beyond the Gene_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 144-169. __map:Taren__
 
-### [Apr 24] Timescales and Novelty
+### \[[Apr 24](./discussions/2026-04-24-timescales-bayesian)\] Timescales and Bayesian Methods
 
 46. __Lala, K.N., et al. 2024, Chapter 11__ _Novelty and Innovation_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 173-188. 
 
 47. __Drummond, A.J., Ho, S.Y.W., Phillips, M.J., Rambaut, A. 2006__   Relaxed phylogenetics and dating with confidence. PLoS Biol 4(5): e88. https://doi.org/10.1371/journal.pbio.0040088
  __map:Taren__
 
-### [Apr 29] Epigenetics
+### \[[Apr 29](./discussions/2026-04-29-development-evolvability)\] Developmental Origins of Evolvability
 
+48. __Lala, K.N., et al. 2024, Chapter 12__ _Developmental Origins of Evolvability_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 83-99. **map:Manuel**
 
-### [May 1] Developmental Origins of Evolvability
+49. Houle, D., Bolstad, G., van der Linde, K. et al. Mutation predicts 40 million years of fly wing evolution. Nature 548, 447–450 (2017). https://doi.org/10.1038/nature23473  **map:Taren**
 
-__Lala, K.N., et al. 2024, Chapter 12__ _Developmental Origins of Evolvability_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 83-99.
-
+### \[[May 1](./discussions/2026-05-01-novelty-models-evolution)\]  Readerʻs Choice -- Novelty and Models of Evolution 
 
 ### [May 6] Exam III (or the following week)
 
