@@ -6,16 +6,17 @@ Bayesian approaches are related to Maximum Likelihood in the sense that the (pot
 
 Practically speaking, Bayesian approaches are used to create much more nuanced models to fit onto the data. More recently they have been used to model demographic parameters along phylogenies such as population size, timing of splits, accounting for heterogeneity of rates, etc. One of the first uses of Bayesian approaches was to study the phylodynamics of virus evolution.
 
-52. __Felsenstein, J. 2004__ Chapter 18_BayesianMethods.pdf). Bayesian inference of phylogenies. Pp. 288-306 in Inferring Phylogenies. Sinauer Assoc., Sunderland.    **todos:Erika,Ethan**      
+46. __Lala, K.N., et al. 2024, Chapter 11__ _Novelty and Innovation_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 173-188. 
 
-To Dos:  
-Bayes Theorem - Erika  
-Bayeian methods for phylogenies, MCMC, Metropolis - Ethan  
-Bayesian MCMC for phylogenies, Proposal distributions - Erika  
-Computing likelihod, summarizing the posterior, priors on trees - Ethan   
-Controversies - All  
+47. __Drummond, A.J., Ho, S.Y.W., Phillips, M.J., Rambaut, A. 2006__   Relaxed phylogenetics and dating with confidence. PLoS Biol 4(5): e88. https://doi.org/10.1371/journal.pbio.0040088
+ __map:Manuel__
 
 
+## Concept Map
+
+## __Drummond, A.J., Ho, S.Y.W., Phillips, M.J., Rambaut, A. 2006__ by Manuel
+
+<img width="700" src="./Concept Map Drummond 2006.png" >
 
 
 

@@ -205,7 +205,7 @@ epigenetics and the microbiome
 46. __Lala, K.N., et al. 2024, Chapter 11__ _Novelty and Innovation_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 173-188. 
 
 47. __Drummond, A.J., Ho, S.Y.W., Phillips, M.J., Rambaut, A. 2006__   Relaxed phylogenetics and dating with confidence. PLoS Biol 4(5): e88. https://doi.org/10.1371/journal.pbio.0040088
- __map:Taren__
+ __map:Manuel__
 
 ### \[[Apr 29](./discussions/2026-04-29-development-evolvability)\] Developmental Origins of Evolvability
 
