@@ -1,20 +1,14 @@
-# April 22
+# April 29
 
-## Bayesian Methods
+## Developmental Origins of Evolvability
 
-Bayesian approaches are related to Maximum Likelihood in the sense that the (potentially) same models of evolution are used, but included in the assessment of the best fitting tree is the use of "priors" on many of the parameters, which represents the investigatorʻs "belief" or knowledge of the system. After observing the data, the likelihood is calculated and multiplied with the prior (updated) to give us the "posterior", which represents an update of our beliefs after conducting the study. The use of (controversial) priors is the most controversial part of Bayesian approaches.   
+In chapter 12 we return to the concept of evolvability and the evolution of variational properties. 
 
-Practically speaking, Bayesian approaches are used to create much more nuanced models to fit onto the data. More recently they have been used to model demographic parameters along phylogenies such as population size, timing of splits, accounting for heterogeneity of rates, etc. One of the first uses of Bayesian approaches was to study the phylodynamics of virus evolution.
+The Houle et al. paper is an excellent example of the application of phylogenetic comparative methods. Does the mode of construction of the character bear any connection to the best fitting model of character evolution? 
 
-52. __Felsenstein, J. 2004__ Chapter 18_BayesianMethods.pdf). Bayesian inference of phylogenies. Pp. 288-306 in Inferring Phylogenies. Sinauer Assoc., Sunderland.    **todos:Erika,Ethan**      
+48. __Lala, K.N., et al. 2024, Chapter 12__ _Developmental Origins of Evolvability_ in *Evolution Evolving: The Developmental Origins of Adaptation and Biodiversity.* Princeton University Press. Pp. 83-99. **map:Manuel**
 
-To Dos:  
-Bayes Theorem - Erika  
-Bayeian methods for phylogenies, MCMC, Metropolis - Ethan  
-Bayesian MCMC for phylogenies, Proposal distributions - Erika  
-Computing likelihod, summarizing the posterior, priors on trees - Ethan   
-Controversies - All  
-
+49. Houle, D., Bolstad, G., van der Linde, K. et al. Mutation predicts 40 million years of fly wing evolution. Nature 548, 447–450 (2017). https://doi.org/10.1038/nature23473  **map:Taren**
 
 
 
